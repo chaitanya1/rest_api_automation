@@ -42,7 +42,7 @@ Go to your environment folder and go to bing folder and execute below command.
 
 
 
-```git clone git@github.com:chaitanya1/rest_api.git```
+```git clone git@github.com:chaitanya1/rest_api_automation.git```
 
 
 
