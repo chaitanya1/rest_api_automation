@@ -1,0 +1,7 @@
+pytest
+requests
+ipython
+pocha
+html-testRunner
+pandas
+unittest2
