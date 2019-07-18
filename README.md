@@ -64,6 +64,10 @@ on command line hit ```pocha``` (All the tests will be executed).
 
 ```pocha```
 
+To run individual file.
+
+```pocha test_modify_task.py```
+
 
 
 
