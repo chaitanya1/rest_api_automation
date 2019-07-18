@@ -6,7 +6,7 @@ Rest API automation for to-do-list app
 
 
 
-Setting up REST_API automation client using py.test and pandas.
+Setting up REST_API automation client using py.test and pandas.(using pandas for better view in terminal and for assertions)
 
 
 
