@@ -55,7 +55,6 @@ class Test_creating_task_events(unittest.TestCase):
                 response_json = response.json() 
                 # getting task_name from the previous function and asserting the tasking making get request.
                 assert response.status_code == 200
-                print(task_id)
                 updated_id = response_json['task_id']
                 assert task_id == updated_id
                 # Asserting the taskname to make sure created and fetched name are same.
