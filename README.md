@@ -1,6 +1,6 @@
 # rest_api_automation
 
-# Rest_api
+# Rest_api (First execute ```pocha test_get_methods.py``` file)
 
 Rest API automation for to-do-list app
 
